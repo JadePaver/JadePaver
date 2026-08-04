@@ -68,7 +68,7 @@ shaped it, and what actually shipped.
 
 | Project | What it is | Stack | |
 | :--- | :--- | :--- | :--- |
-| **Ledger** <br/> <sub>2025 · Solo</sub> | Multi-wallet Android finance app. Offline-first, with an AI assistant wired to real transaction data. | `Flutter` `Dart` `Firebase` `Riverpod` | [Case study →](https://jadepaver.github.io/portfolio/#/projects/ledger) |
+| **Ledger** <br/> <sub>2025 · Solo</sub> | Multi-wallet Android finance app. Offline-first, with an AI assistant wired to real transaction data. | `Flutter` `Dart` `Firebase` `Hive` | [Case study →](https://jadepaver.github.io/portfolio/#/projects/ledger) |
 | **PasaBay** <br/> <sub>2024–25 · Full-stack</sub> | Food delivery for neighborhood home kitchens. Live serving counts, pin-first addresses. | `Flutter` `Dart` `Maps API` | [Case study →](https://jadepaver.github.io/portfolio/#/projects/pasabay) |
 | **Aspentech** <br/> <sub>2025–26 · Front-end</sub> | Enterprise sales site where the demo *is* the spec — buyers re-skin real systems live. | `React` `TypeScript` `Laravel` `MUI` | [Case study →](https://jadepaver.github.io/portfolio/#/projects/aspentech) |
 | **ICTD App** <br/> <sub>2025–26 · Design + build</sub> | Government service desk in two halves: field app + admin console, one shared record. | `Flutter` `React` `TypeScript` `Supabase` | [Case study →](https://jadepaver.github.io/portfolio/#/projects/ictd) |
